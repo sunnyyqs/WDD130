@@ -1,0 +1,19 @@
+body {
+    font-family: cursive;
+  }
+  
+  p {
+    text-align: left;
+  }
+  .centered {
+    text-align: center;
+  }
+  
+  .prettyFont {
+    font-family: cursive;
+  }
+  
+  .leftSpace {
+    padding-left: 40%;
+    padding-top: 50px;
+  }
